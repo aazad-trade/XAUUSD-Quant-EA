@@ -1,5 +1,5 @@
 ## XAUUSD – Multi-Timeframe Price Action EA
-** This EA is shared for research and portfolio demonstration purposes only. **
+**This EA is shared for research and portfolio demonstration purposes only.**
 
 **Strategy Type:**  
 Regime-aware price action strategy using quantified pin-bar patterns
