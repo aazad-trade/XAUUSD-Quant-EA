@@ -1,4 +1,5 @@
 ## XAUUSD – Multi-Timeframe Price Action EA
+** This EA is shared for research and portfolio demonstration purposes only. **
 
 **Strategy Type:**  
 Regime-aware price action strategy using quantified pin-bar patterns
@@ -7,7 +8,7 @@ Regime-aware price action strategy using quantified pin-bar patterns
 XAUUSD
 
 **Timeframes:**  
-H4, H1
+H4, H1.
 lower timeframes removed to reduce noise and overfitting.
 
 **Risk Management:**  
