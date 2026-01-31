@@ -1,0 +1,15 @@
+# MetaTrader 4
+*.log
+*.tmp
+*.chk
+*.err
+
+# Backtest and optimization files
+tester/
+*.set
+
+# User data files
+MQL4/Files/
+
+# Cache
+*.dat
