@@ -8,6 +8,7 @@ XAUUSD
 
 **Timeframes:**  
 H4, H1
+lower timeframes removed to reduce noise and overfitting.
 
 **Risk Management:**  
 - Fixed fractional risk per mode  
