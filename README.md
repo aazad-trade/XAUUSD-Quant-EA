@@ -1,2 +1,25 @@
-# XAUUSD-Quant-EA
-A MetaTrader 4 Expert Advisor focusing on risk management and clean architecture.
+## XAUUSD – Multi-Timeframe Price Action EA
+
+**Strategy Type:**  
+Regime-aware price action strategy using quantified pin-bar patterns
+
+**Markets:**  
+XAUUSD
+
+**Timeframes:**  
+H4, H1
+
+**Risk Management:**  
+- Fixed fractional risk per mode  
+- Volatility regime filter (ATR-based)  
+- Break-even logic  
+- Trade clustering limit  
+
+**Key Strengths:**  
+- Multi-timeframe ensemble  
+- Quantified discretionary patterns  
+- Robust to different volatility regimes
+
+**Limitations:**  
+- Performance depends on market regime  
+- MT4 strategy tester limitations acknowledged
